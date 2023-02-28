@@ -1,7 +1,9 @@
 # Puissance 4 - Jeu avec interface graphique Tkinter
 
 # Description
-Créé par Timothée RABOT, version 0.9.1
+Créé par Timothée RABOT, version 0.9.1 28/02/2023
+
+
 Ce projet consiste en une implémentation du jeu de société Puissance 4, avec une interface graphique Tkinter permettant aux joueurs de jouer contre un adversaire humain. Les joueurs alternent pour placer des pions dans une grille de 6x7, le but étant d'aligner 4 pions horizontalement, verticalement ou en diagonale.
 
 # Installation
